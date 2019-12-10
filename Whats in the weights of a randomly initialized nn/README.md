@@ -10,3 +10,4 @@ Expected input shape :
 
 TODO : 
 - Migrate to any framework
+- Training on the ScoreFCNN is super slow. Need to work out on better optimizations.
